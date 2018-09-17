@@ -23,6 +23,6 @@ Scheme
 		"Ubercharge Full 2"		"226 0 100 255"
 		
 		"Ubercharge Label"		"255 255 255 255"
-		"Ubercharge Label Full"	"255 255 255 255"
+		"Ubercharge Label Full"	"226 0 100 255"
 	}
 }

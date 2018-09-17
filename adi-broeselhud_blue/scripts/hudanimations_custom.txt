@@ -125,6 +125,7 @@ event HudMedicCharged
 	Animate ChargeMeter	FgColor	"Ubercharge Full 1"		linear 0.0 0.6
 	Animate ChargeMeter	FgColor	"Ubercharge Full 2"		linear 0.6 0.6
 	Animate ChargeLabel	FgColor	"UberCharge Label Full"	linear 0.0 0.0
+	//Animate ChargeBackground	BgColor	"226 0 100 100"	linear 0.0 0.0
 	
 	RunEvent HudMedicChargedLoop 1.2
 }
@@ -136,6 +137,7 @@ event HudMedicChargedStop
 	
 	Animate ChargeMeter	FgColor	"Ubercharge Bar"	linear 0.0 0.0001
 	Animate ChargeLabel	FgColor	"Ubercharge Label"	linear 0.0 0.0
+	//Animate ChargeBackground	BgColor	"0 0 0 50"	linear 0.0 0.0
 }
 
 event ActiveTimerHighlight

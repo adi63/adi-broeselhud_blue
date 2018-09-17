@@ -1044,7 +1044,7 @@ Scheme
 				"additive"		"0"
 				"antialias" 	"1"
 				"outline"		"0"
-				"dropshadow"	"1"
+				"dropshadow"	"0"
 			}
 		}
 		surfaceNumbers14
