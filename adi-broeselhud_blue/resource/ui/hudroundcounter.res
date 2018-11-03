@@ -65,6 +65,8 @@
 		
 		"draw_corner_width"		"0"
 		"draw_corner_height" 	"0"
+		"visible"				"0"
+		"enabled"				"0"
 	}
 
 	"BackgroundRed"
@@ -84,6 +86,8 @@
 		
 		"draw_corner_width"		"0"
 		"draw_corner_height"	"0"
+		"visible"				"0"
+		"enabled"				"0"
 	}
 	
 	"BackgroundGrey"

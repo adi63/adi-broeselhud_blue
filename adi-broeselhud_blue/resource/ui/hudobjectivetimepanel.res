@@ -83,7 +83,7 @@
 		"wrap"					"0"
 		"font"					"surface10"
 		"fgcolor"				"255 255 255 255"
-		"bgcolor_override"		"95 95 95 255"
+		"bgcolor_override"		"35 35 35 255"
 	}
 	
 	"OvertimeBG"

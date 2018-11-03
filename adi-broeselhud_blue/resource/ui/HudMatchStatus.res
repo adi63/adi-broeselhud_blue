@@ -205,8 +205,100 @@
 		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
+		
+		"Background"
+		{
+			"ypos"													"r-6969"
+		}
 	}	
 
+		"tournamentbg_blue"
+	{
+		"ControlName"												"ImagePanel"
+		"fieldName"													"tournamentbg_blue"
+		"xpos"														"c-37"
+		"ypos"														"0"
+		"zpos"														"0"
+		"wide"														"37"
+		"tall"														"8"
+		"autoResize"												"0"
+		"pinCorner"													"0"
+		"labeltext"													""
+		"visible"													"0"
+		"enabled"													"1"
+		"fillcolor"													"60 90 120 255"
+		"image"														""
+		"paintbackgroundtype"										"0"
+		
+		if_match
+		{
+			"visible"												"1"
+		}
+		
+		if_mvm
+		{
+			"ypos"													"r-6969"
+		}
+	}
+	
+	"tournamentbg_red"
+	{
+		"ControlName"												"ImagePanel"
+		"fieldName"													"tournamentbg_red"
+		"xpos"														"c0"
+		"ypos"														"0"
+		"zpos"														"0"
+		"wide"														"37"
+		"tall"														"8"
+		"autoResize"												"0"
+		"pinCorner"													"0"
+		"labeltext"													""
+		"visible"													"0"
+		"enabled"													"1"
+		"fillcolor"													"160 50 50 255"
+		"image"														""
+		"paintbackgroundtype"										"0"
+		
+		if_match
+		{
+			"visible"												"1"
+		}
+		
+		if_mvm
+		{
+			"ypos"													"r-6969"
+		}
+    }
+	
+	"tournamentbg_gray"
+	{
+		"ControlName"												"ImagePanel"
+		"fieldName"													"tournamentbg_gray"
+		"xpos"														"c-37"
+		"ypos"														"8"
+		"zpos"														"0"
+		"wide"														"74"
+		"tall"														"13"
+		"autoResize"												"0"
+		"pinCorner"													"0"
+		"labeltext"													""
+		"visible"													"0"
+		"enabled"													"1"
+		"fillcolor"													"0 0 0 100"
+		"image"														""
+		"paintbackgroundtype"										"0"
+		
+		if_match
+		{
+			"visible"												"1"
+		}
+		
+		if_mvm
+		{
+			"ypos"													"r-6969"
+		}
+    }
+	
 	"BGFrame"
 	{
 		"ControlName"			"EditablePanel"
@@ -375,7 +467,7 @@
 				"dulltext"							"0"
 				"brighttext"						"0"
 				"bgcolor_override"	   				"0 0 0 0"
-				"fgcolor_override"	   				"255 255 255 180"
+				"fgcolor_override"	   				"255 255 255 255"
 				"proportionaltoparent"				"1"
 			}
 			
