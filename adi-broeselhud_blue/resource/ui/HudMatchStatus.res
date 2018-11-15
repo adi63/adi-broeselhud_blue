@@ -226,7 +226,7 @@
 		"labeltext"													""
 		"visible"													"0"
 		"enabled"													"1"
-		"fillcolor"													"60 90 120 255"
+		"fillcolor"													"75 115 140 255"
 		"image"														""
 		"paintbackgroundtype"										"0"
 		
@@ -255,7 +255,7 @@
 		"labeltext"													""
 		"visible"													"0"
 		"enabled"													"1"
-		"fillcolor"													"160 50 50 255"
+		"fillcolor"													"185 60 60 255"
 		"image"														""
 		"paintbackgroundtype"										"0"
 		
